@@ -1,0 +1,13 @@
+= Book Title
+gcsillag <doc@email.email>
+v0.1, 2023-04-04
+:doctype: article
+ 
+[bevezeto]
+== Bevezető
+ 
+ 
+include::docs/bevezetes.adoc[leveloffset=1]
+ 
+
+
